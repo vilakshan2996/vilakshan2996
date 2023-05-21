@@ -29,14 +29,32 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<br>
 
-<p align="left">I'm Vilakshan from Colombo, SriLanka <br><br>- 🔭 I’m a student <br>- 📚 I'm currently doing Bsc in Computer Engineering @University Of Peradeniya <br>- ⚡ In my free time I do open source projects , free apps, websites, Direct Shipping</p>
+ I am <b>Vilakshan</b>, a passionate computer engineering student with a drive for innovation and a knack for problem-solving.
 
-###
+🚀 Passionate Computer Engineering Student | 🎯 Expert in Logistics, E-Business, and Software Development | 💡 Founder of EmTechMart
+
+🎓 Pursuing BSc in Computer Engineering | 🌟 Top-notch problem solver | 🌐 Networking enthusiast
+
+💡 Founder of EmTechMart, where I'm turning ideas into reality | 🌈 Creating seamless e-commerce experiences
+
+💻 Proficient in machine learning, data structures, and algorithms | 🌟 Bridging the gap between technology and business
+
+🔧 Love building innovative software solutions | 💪 Thrive in fast-paced, dynamic environments
+
+🌍 Bringing logistics optimization to the forefront | 🚚 Streamlining supply chain processes
+
+💡 Passionate about e-business strategies | 📈 Driving growth and revenue in the e-commerce industry
+
+🌟 Eager to collaborate on cutting-edge projects | 🚀 Let's connect and create something amazing!
+
+<br>
+
 
 <h3 align="left">🛠 Language and tools</h3>
+<br>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="go logo"  />
@@ -94,11 +112,15 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<br>
+<!-- 
+## Stack Overflow Contribution -->
 
-###
+<!-- [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/16186109.svg?scale=10)](https://stackoverflow.com/users/{YOUR_STACK_OVERFLOW_USER_ID}) -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div style="display: inline-block;">
+  <a href="https://stackoverflow.com/users/16186109">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/16186109.svg?style=flat-square&logo=stackoverflow" alt="Stack Overflow Reputation" width="400" height="40">
+  </a>
 </div>
 
-###
