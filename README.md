@@ -9,16 +9,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/vilakshan-vinasirajan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> -->
 </div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+</div> -->
 
 ###
 
@@ -120,7 +120,7 @@
 
 <div style="display: inline-block;">
   <a href="https://stackoverflow.com/users/16186109">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/16186109.svg?style=flat-square&logo=stackoverflow" alt="Stack Overflow Reputation" width="400" height="40">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/16186109.svg?style=flat-square&logo=stackoverflow" alt="Stack Overflow Reputation" height="40">
   </a>
 </div>
 
